@@ -9,7 +9,6 @@ body {
     background-color: #f6b319;
     border-radius: 0;
     boarder: 0;
-    font-family: 'Courier', sans-serif;
   }
   .navbar-brand h1 { /* Restaurant name */
     font-family: 'Lora', serif;
@@ -36,7 +35,7 @@ body {
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #E2E5E4;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
