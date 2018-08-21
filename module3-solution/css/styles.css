@@ -9,6 +9,7 @@ body {
     background-color: #f6b319;
     border-radius: 0;
     boarder: 0;
+    font-family: 'Oxygen'
   }
   .navbar-brand h1 { /* Restaurant name */
     font-family: 'Lora', serif;
