@@ -38,18 +38,6 @@ body {
 #nav-list a:hover {
   background: #E2E5E4;
 }
-#sushi {
-	border: 1px solid black;
-	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
-	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	background-color: #EDA25B;
-}
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
